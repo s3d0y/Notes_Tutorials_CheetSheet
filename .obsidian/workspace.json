@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Команды.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL/Команды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL/Команды.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "34d741e5b6d4c413",
   "lastOpenFiles": [
+    "SQL/SQL запросы.md",
+    "SQL/Команды.md",
+    "Python/Интересный код.md",
+    "Git/Git.md",
+    "Python",
+    "Git/_Head_Git.md",
+    "README.md",
     "Pasted image 20240425125747.png"
   ]
 }
