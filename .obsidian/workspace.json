@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Команды.md",
+                "file": "Python/Методы Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Команды.md",
+                "file": "Python/Методы Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Команды.md",
+                "file": "Python/Методы Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Команды.md"
+                "file": "Python/Методы Pandas.md"
               }
             }
           }
@@ -148,9 +148,16 @@
   },
   "active": "34d741e5b6d4c413",
   "lastOpenFiles": [
-    "SQL/SQL запросы.md",
-    "SQL/Команды.md",
+    "Python/Циклы.md",
+    "Python/Функции и методы.md",
+    "Python/Методы Pandas.md",
+    "Python/Типы перемененных.md",
+    "Разобрать/Опасно!.md",
+    "Python/Команды.md",
     "Python/Интересный код.md",
+    "Python/Библиотеки.md",
+    "SQL/Команды.md",
+    "SQL/SQL запросы.md",
     "Git/Git.md",
     "Python",
     "Git/_Head_Git.md",
