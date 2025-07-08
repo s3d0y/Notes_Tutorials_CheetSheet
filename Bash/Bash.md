@@ -1,5 +1,3 @@
-
-
 [Основы работы в терминале из Школы 21](https://www.youtube.com/watch?v=vKdmMbAtEnM)
 
 
