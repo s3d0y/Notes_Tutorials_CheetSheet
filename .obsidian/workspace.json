@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Bash/00_Старт отсюда.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "00_Старт отсюда"
+            }
+          },
+          {
+            "id": "c06c8dfca264c11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основные элементы регулярных выражений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основные элементы регулярных выражений"
+            }
+          },
+          {
+            "id": "c9fa556b75ff3eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/00_Старт отсюда.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Старт отсюда"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 465.5
   },
   "right": {
     "id": "a04d77e53ae961ff",
@@ -168,40 +197,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eadbebe68df849b2",
+  "active": "c9fa556b75ff3eb7",
   "lastOpenFiles": [
-    "Git/_Head_Git.md",
-    "_pic/Pasted image 20240425125747.png",
-    "_pic/Pasted image 20240727225843.png",
-    "Bash/пакетный менеджер.md",
-    "Bash/Переменные окружения.md",
+    "Bash/Квантификаторы BASH.md",
+    "Основные элементы регулярных выражений.md",
+    "Untitled",
+    "Bash/00_Старт отсюда.md",
+    "Bash/Числовые сравнения BASH.md",
+    "Школа 21/Линукс мониторинг (DO03).md",
+    "CbS_4_нюансы.md",
+    "Школа 21",
+    "Bash/Файловые проверки BASH.md",
+    "Bash/Стандартные переменные BASH.md",
+    "Bash/bash comands script.canvas",
+    "Bash/CLI_Linux.canvas",
+    "Bash/Строковые сравнения.md",
+    "RoadMap.md",
+    "Bash/Bash.md",
+    "Reverse shell.md",
+    "Pasted image 20250724125110.png",
     "Bash/Права доступа.md",
     "Bash/Регулярные выражения.md",
     "Bash/создание alias.md",
-    "SQL/операторы SQL.md",
-    "SQL/Команды.md",
-    "SQL/Источники.md",
-    "SQL/Агрегатные функции.md",
-    "SQL/SQL запросы.md",
-    "Аналитика/Компетенции Аналитика.canvas",
-    "Аналитика/Диаграммы потоков.md",
-    "Разобрать/Опасно!.md",
+    "Bash/выполнение команд.md",
+    "Bash/История памяти консоли.md",
+    "Bash/Переменные окружения.md",
+    "Bash/имя пользователя.md",
     "Bash/sudo.md",
-    "Bash/Bash.md",
-    "C/Типы данных С.md",
-    "C/округление.md",
-    "C/оператор присваивания.md",
-    "C/Константы и литералы.md",
-    "C/Конспект по C.md",
-    "C/короткие арифметические конструкции.md",
-    "C/Консоль Git Bash.md",
-    "C/знаковые числа.md",
-    "C/sequence point и undefined behaviour.md",
-    "C/_Head_C.md",
-    "Cisco/дерево команд.canvas",
-    "Cisco/trunk.md",
+    "*Nix/iptables.md",
+    "*Nix/Файловая система Linux.md",
+    "Сomputer network (cisco)/навигация.md",
+    "Comand CLI.md",
+    "README.md",
+    "Сomputer network (cisco)/дерево команд.canvas",
+    "Сomputer network (cisco)/DHCP.md",
+    "Сomputer network (cisco)/OSI and protocols.canvas",
+    "*Nix",
+    "_pic/Pasted image 20240425125747.png",
+    "_pic/Pasted image 20240727225843.png",
+    "Аналитика/Компетенции Аналитика.canvas",
     "L2 ",
-    "Cisco",
+    "Сomputer network (cisco)",
     "Аналитика",
     "Канвас.canvas",
     "Excel",

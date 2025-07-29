@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"697de095e9660a12","type":"text","text":"sudo systemctl restart isc-dhcp-server\n","x":-6020,"y":-1920,"width":515,"height":60},
+		{"id":"ab16c36f425364b8","type":"text","text":"sudo dhcpd -t -cf /etc/dhcp/dhcpd.conf\n","x":-6020,"y":-1720,"width":515,"height":60},
+		{"id":"23900c63673aa117","type":"text","text":"sudo systemctl status isc-dhcp-server","x":-6020,"y":-1820,"width":455,"height":60},
+		{"id":"b4025345f11e7dda","type":"text","text":"sudo dhclient -r      # Освобождаем текущий IP","x":-6026,"y":-1620,"width":416,"height":60},
+		{"id":"ff8ccae24a30b954","type":"text","text":"sudo dhclient enpXsY  # Запрашиваем новый ( enpXsY -  имя вашего интерфейса)","x":-6026,"y":-1520,"width":876,"height":60},
+		{"id":"c2ffe82c0309cdcc","type":"text","text":"sudo ip link set enpXsY down   # Выключаем интерфейс","x":-6026,"y":-1420,"width":700,"height":50},
+		{"id":"834df176783d84c5","type":"text","text":"sudo ip link set enpXsY up     # Включаем обратно","x":-6026,"y":-1320,"width":555,"height":60}
+	],
+	"edges":[]
+}
