@@ -114,7 +114,23 @@ iptables - инструмент управления сетями в Linux, по
 Восстановление, сохранение, просмотр. 
 
 ``` sh
-'iptables-save' - выводит данные в stdout виде машиночитаемого конфига, показывает все таблицы сразу, можно перенаправить > в файл для последующего восстановления (sudo iptables-save > /etc/iptables/rules.v4)
+'iptables-save' - выводит данные в stdout виде машиночитаемого конфига, показывает все таблицы сразу, можно перенаправить > в файл для последующего восстановления (sudo iptables-save > /etc/iptables/rules.v4. Можно перенаправить через  '| tee /etc/iptables/rules.v4'
+
 'iptables-restore' - востановить (sudo iptables-restore < /etc/iptables/rules.v4)
+
 'iptables -S' - показать правила как команды (не забыть что талицы разные)
 ```
+
+
+Файлы 
+```
+- `/etc/iptables/rules.v4` - для IPv4 правил
+    
+- `/etc/iptables/rules.v6` - для IPv6 правил
+    
+- `/etc/iptables/rules.v4.bak` - backup предыдущей версии
+```
+
+`netfilter-persistent` - служба, которая автоматически загружает правила при загрузе
+
+команда `save`  сохраняет текущие правила в файлы
