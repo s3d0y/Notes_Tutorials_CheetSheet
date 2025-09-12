@@ -11,17 +11,91 @@
             "id": "e1b54b47aa6b5b11",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Bash/CLI_Linux.canvas",
+                "viewState": {
+                  "x": -5495.85425239402,
+                  "y": -1411.7553084882848,
+                  "zoom": -0.40000000000000013
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CLI_Linux"
+            }
+          },
+          {
+            "id": "c1c9a9000a7096e3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Школа 21/CbS_7.md",
+                "file": "Bash/read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CbS_7"
+              "title": "read"
+            }
+          },
+          {
+            "id": "264d5afd922ef794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bash/case.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "case"
+            }
+          },
+          {
+            "id": "37469c063ab113ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "while.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "while"
+            }
+          },
+          {
+            "id": "e008fb224df9a409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scp - отправка и вытягивание файлов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scp - отправка и вытягивание файлов"
+            }
+          },
+          {
+            "id": "117a4d0674de589a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системы CbS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Системы CbS"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,35 +243,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1b54b47aa6b5b11",
+  "active": "117a4d0674de589a",
   "lastOpenFiles": [
-    "Hash (хэш).md",
-    "Школа 21/CbS_7.md",
-    "Школа 21/CbS_5_Linux_basic.md",
-    "Bash/Bash.md",
     "scp - отправка и вытягивание файлов.md",
+    "Системы CbS.md",
+    "CbS",
+    "Демоны ( daemon).md",
+    "Логи в Linux.md",
+    "Настройка доступа по SSH под root.md",
+    "Основные элементы регулярных выражений.md",
+    "Сокращения полезные для понимания.md",
+    "IFS.md",
+    "while.md",
+    "Bash/case.md",
+    "Bash/read.md",
+    "Bash/CLI_Linux.canvas",
+    "Bash/bash comands script.canvas",
+    "Comand CLI.md",
+    "Bash/выполнение команд.md",
+    "00_РАБОТАЮ НАД/Файлы.md",
+    "00_РАБОТАЮ НАД/chmod chown chgrp.md",
+    "00_РАБОТАЮ НАД/расширенные права доступа.md",
+    "00_РАБОТАЮ НАД/процессы.md",
+    "00_РАБОТАЮ НАД/Пользователи.md",
+    "00_РАБОТАЮ НАД/Перечитывай Заметки к группе.md",
+    "Школа 21/CbS_5_Linux_basic.md",
+    "Школа 21/CbS_7.md",
+    "Школа 21/Линукс мониторинг (DO03).md",
+    "Hash (хэш).md",
+    "Bash/Bash.md",
     "Nix/iptables.md",
     "Bash/01_черновик_для_разбора.md",
-    "Git/Git.md",
-    "ssh_config и sshd_config.md",
-    "Postmap.md",
-    "SASL.md",
-    "Cron.md",
-    "Демоны ( daemon).md",
-    "Сокращения полезные для понимания.md",
-    "RoadMap.md",
-    "DNS.md",
-    "CbS_4_нюансы.md",
-    "Comand CLI.md",
-    "Школа 21/Линукс мониторинг (DO03).md",
-    "Nix/Файловая система Linux.md",
-    "Bash/Регулярные выражения regular expressions.md",
-    "SQL/операторы SQL.md",
-    "00_РАБОТАЮ НАД/chmod chown chgrp.md",
-    "00_РАБОТАЮ НАД/процессы.md",
-    "SUID, SGID, Sticky Bit.md",
-    "00_РАБОТАЮ НАД/расширенные права доступа.md",
-    "Untitled",
     "_pic/Pasted image 20250814102955.png",
     "_pic/Pasted image 20250724125110.png",
     "Pasted image 20250814103102.png",
@@ -206,8 +282,6 @@
     "Pasted image 20250814102511.png",
     "00_РАБОТАЮ НАД",
     "Школа 21",
-    "Bash/bash comands script.canvas",
-    "Bash/CLI_Linux.canvas",
     "Сomputer network (cisco)/дерево команд.canvas",
     "Сomputer network (cisco)/OSI and protocols.canvas",
     "Nix",
