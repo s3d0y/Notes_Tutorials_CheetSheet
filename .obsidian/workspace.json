@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "350c6e461549613f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerScience/Основные элементы регулярных выражений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основные элементы регулярных выражений"
-            }
-          },
-          {
             "id": "e27862040df6c274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Первый день на сервере/Первый день на сервере.md",
+                "file": "_Статьи/Настройка root на сервере  Ubuntu/Безопастность. Настройка root  и пользователей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первый день на сервере"
+              "title": "Безопастность. Настройка root  и пользователей"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +171,20 @@
   },
   "active": "e27862040df6c274",
   "lastOpenFiles": [
-    "Pasted image 20251018145205.png",
+    "_Статьи/Настройка root на сервере  Ubuntu/Конвенция именования в Linux.md",
+    "_Статьи/Настройка root на сервере  Ubuntu/Безопастность. Настройка root  и пользователей.md",
+    "Pasted image 20251021133305.png",
+    "_Статьи/Первый день на сервере/Первый день на сервере.md",
+    "_Статьи/Первый день на сервере/Pasted image 20251018145205.png",
+    "_Статьи/Первый день на сервере/Pasted image 20251018145148.png",
+    "ComputerScience/Основные элементы регулярных выражений.md",
+    "_Статьи/Настройка root на сервере  Ubuntu",
+    "_Статьи",
+    "Untitled.md",
     "Первый день на сервере/Pasted image 20251018144415.png",
-    "Первый день на сервере/Первый день на сервере.md",
-    "Pasted image 20251018145148.png",
     "Pasted image 20251018144411.png",
     "Первый день на сервере картинка/Pasted image 20251018144215.png",
-    "Первый день на сервере",
+    "_Статьи/Первый день на сервере",
     "Comand CLI.md",
     "DNS.md",
     "Hash (хэш).md",
@@ -202,7 +194,6 @@
     "RoadMap.md",
     "CbS/Reverse shell.md",
     "ComputerScience/_Head_CS.md",
-    "ComputerScience/Основные элементы регулярных выражений.md",
     "Bash/while.md",
     "scp - отправка и вытягивание файлов.md",
     "Java/Java.md",
@@ -216,8 +207,6 @@
     "Аналитика/Компетенции Аналитика.canvas",
     "Bash/IFS.md",
     "Nix/Cron.md",
-    "CbS_4_нюансы.md",
-    "00_РАБОТАЮ НАД/Перечитывай Заметки к группе.md",
     "Bash/CLI_Linux.canvas",
     "_pic/Pasted image 20240425125747.png",
     "_pic/Pasted image 20240727225843.png",
@@ -227,16 +216,12 @@
     "Сomputer network (cisco)/OSI and protocols.canvas",
     "CbS",
     "Bash/bash comands script.canvas",
-    "Pasted image 20250814103102.png",
-    "Pasted image 20250814102511.png",
     "00_РАБОТАЮ НАД",
     "Школа 21",
     "Nix",
     "L2 ",
     "Сomputer network (cisco)",
     "Аналитика",
-    "Канвас.canvas",
-    "Excel",
-    "Python"
+    "Канвас.canvas"
   ]
 }
