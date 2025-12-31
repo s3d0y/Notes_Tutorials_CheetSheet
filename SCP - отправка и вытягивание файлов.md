@@ -16,3 +16,5 @@ scp -P 2222 -p s3d0y@localhost:/home/s3d0y/Documents/CbS/02/user_and_group.sh
 ``` sh 
 scp -P 2222 -p /путь/на/локальной/машине/файл s3d0y@localhost:/путь/на/виртуальной/машине/
 ```
+
+
