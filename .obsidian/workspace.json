@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CbS/Полезные источники?.md",
+                "file": "00_РАБОТАЮ НАД/ДЛЯ BSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полезные источники?"
+              "title": "ДЛЯ BSA"
+            }
+          },
+          {
+            "id": "07bb992e9dd1d2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inode"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,37 +184,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4d793855098781",
+  "active": "07bb992e9dd1d2dc",
   "lastOpenFiles": [
-    "CbS/Системы CbS.md",
-    "DevOps с Глебом.md",
-    "Аналитика/Компетенции Аналитика.canvas",
-    "Общий журнал работ.md",
-    "Глоссарий ДорХаб.md",
-    "Дор Хаб.md",
-    "Bash/Регулярные выражения regular expressions.md",
-    "SQL/операторы SQL.md",
-    "Bash/Bash.md",
-    "Docker-runner.md",
-    "dockle.md",
-    "Fail2ban. Настройка.md",
-    "nginx.conf.md",
-    "SASL.md",
-    "SCP - отправка и вытягивание файлов.md",
-    "Работа с дисками.md",
-    "Просмотр активных сессий пользователей.md",
-    "Переключение между пользователями.md",
-    "Установка Docker.md",
+    "00_РАБОТАЮ НАД/ДЛЯ BSA.md",
+    "inode.md",
+    "00_РАБОТАЮ НАД/chmod chown chgrp.md",
+    "00_РАБОТАЮ НАД/Пользователи.md",
+    "00_РАБОТАЮ НАД/Перечитывай Заметки к группе.md",
     "_Статьи/Первый день на сервере/0. Введение. Начало работы с сервером..md",
+    "_Статьи/Первый день на сервере/Алиасы CLI (ZSH).md",
+    "_Статьи/Первый день на сервере/ZSH.md",
     "_Статьи/Первый день на сервере/2.1 Настройка подключения по ключам ssh.md",
-    "_Статьи/Первый день на сервере/1.1 Аудит системы.md",
-    "_Статьи/Первый день на сервере/1.2 Безопастность. Настройка root  и пользовательского доступа.md",
     "_Статьи/Первый день на сервере/1.3 Добавление пользователей.md",
-    "Bash/История памяти консоли.md",
-    "Dockerfile.md",
-    "Docker Compose.md",
+    "_Статьи/Первый день на сервере/1.2 Безопастность. Настройка root  и пользовательского доступа.md",
+    "_Статьи/Первый день на сервере/1.1 Аудит системы.md",
+    "Bash/00_Старт отсюда.md",
     "Bash/CLI_Linux.canvas",
     "Bash/bash comands script.canvas",
+    "Bash/Bash.md",
+    "Bash/01_черновик_для_разбора.md",
+    "Аналитика/Компетенции Аналитика.canvas",
+    "Аналитика/Диаграммы потоков.md",
+    "Разобрать/Опасно!.md",
+    "Fail2ban. Настройка.md",
+    "Hash (хэш).md",
+    "Netplan.md",
+    "DevOps с Глебом.md",
+    "Comand CLI.md",
+    "CbS_4_нюансы.md",
+    "Docker-runner.md",
+    "Школа 21/Линукс мониторинг (DO03).md",
+    "Docker Compose.md",
+    "Сomputer network (cisco)/дерево команд.canvas",
+    "Сomputer network (cisco)/OSI and protocols.canvas",
     "Untitled.base",
     "Untitled 6.base",
     "Untitled 3.base",
@@ -220,8 +237,6 @@
     "_pic/Pasted image 20240727225843.png",
     "_pic/Pasted image 20250724125110.png",
     "_pic/Pasted image 20250814102955.png",
-    "Сomputer network (cisco)/дерево команд.canvas",
-    "Сomputer network (cisco)/OSI and protocols.canvas",
     "Канвас.canvas"
   ]
 }
