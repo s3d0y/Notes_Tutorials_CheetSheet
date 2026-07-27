@@ -13,4 +13,4 @@
 ## Быстрый вход
 
 - [[RoadMap]]
-- [[README]]
+- [[Notes_Tutorials_CheetSheet/README]]
